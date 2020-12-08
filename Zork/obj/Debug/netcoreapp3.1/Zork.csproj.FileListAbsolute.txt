@@ -14,3 +14,19 @@ M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\bin\Debug\netcoreapp3.1\Newtons
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CoreCompileInputs.cache
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CopyComplete
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.json
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.json
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.exe
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.deps.json
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.runtimeconfig.json
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.runtimeconfig.dev.json
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.dll
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.pdb
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csprojAssemblyReference.cache
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.AssemblyInfoInputs.cache
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.AssemblyInfo.cs
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CoreCompileInputs.cache
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CopyComplete
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.dll
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.pdb
+M:\Nick\Documents\Desktop\FORKTEST\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.genruntimeconfig.cache

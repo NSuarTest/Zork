@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.csproj": {}
+    "M:\\Nick\\Documents\\Desktop\\FORKTEST\\Zork\\Zork\\Zork.csproj": {}
   },
   "projects": {
-    "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.csproj": {
+    "M:\\Nick\\Documents\\Desktop\\FORKTEST\\Zork\\Zork\\Zork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.csproj",
+        "projectUniqueName": "M:\\Nick\\Documents\\Desktop\\FORKTEST\\Zork\\Zork\\Zork.csproj",
         "projectName": "Zork",
-        "projectPath": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.csproj",
+        "projectPath": "M:\\Nick\\Documents\\Desktop\\FORKTEST\\Zork\\Zork\\Zork.csproj",
         "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-        "outputPath": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\obj\\",
+        "outputPath": "M:\\Nick\\Documents\\Desktop\\FORKTEST\\Zork\\Zork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
